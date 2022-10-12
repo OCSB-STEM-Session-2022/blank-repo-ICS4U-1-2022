@@ -1,0 +1,13 @@
+{
+    "customizations": {
+      "codespaces": {
+        "repositories": {
+          "ICS4U-1-2022/*": {
+            "permissions": {
+              "issues": "write"
+            }
+          }
+        }
+      }
+    }
+  }
