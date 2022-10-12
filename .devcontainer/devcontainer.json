@@ -1,13 +1,11 @@
 {
-"customizations": {
-  "codespaces": {
-    "repositories": {
-      "ICS4U-1-2022/ics4u-intro-06-typescript": {
-        "permissions": {
-          "issues": "write"
+  "customizations": {
+    "codespaces": {
+      "repositories": {
+        "ICS4U-1-2022/ics4u-intro-06-typescript": {
+          "permissions": "write-all"
         }
       }
     }
   }
-}
 }
