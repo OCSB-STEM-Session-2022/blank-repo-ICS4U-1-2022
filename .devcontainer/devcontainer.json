@@ -2,8 +2,8 @@
   "customizations": {
     "codespaces": {
       "repositories": {
-        "ICS4U-1-2022/*": {
-          "permissions": "write-all"
+        "ICS4U-1-2022/ics4u-intro-06-typescript": {
+          "permissions": "write-all
         }
       }
     }
